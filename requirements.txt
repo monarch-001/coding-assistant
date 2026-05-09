@@ -1,0 +1,6 @@
+google-genai
+rich
+pydantic
+pydantic-settings
+aiosqlite
+python-dotenv
